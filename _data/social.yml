@@ -1,0 +1,7 @@
+#You can write your social networks
+social:
+  - {text: 'Github', link: 'https://www.github.com'}
+  - {text: 'Twitter', link: 'https://twitter.com'}
+  - {text: 'Linkedin', link: 'https://www.linkedin.com/'}
+
+  - {text: 'Mail', link: 'mailto:'}
